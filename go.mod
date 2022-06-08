@@ -3,7 +3,7 @@ module github.com/devopsfaith/krakend-ce/v2
 go 1.17
 
 require (
-	github.com/AXATechLab/krakend-opencensus v1.0.2
+	github.com/AXATechLab/krakend-opencensus v1.0.3
 	github.com/devopsfaith/bloomfilter/v2 v2.0.0
 	github.com/devopsfaith/krakend-amqp/v2 v2.0.1
 	github.com/devopsfaith/krakend-botdetector/v2 v2.0.0

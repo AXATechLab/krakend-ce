@@ -88,6 +88,8 @@ github.com/AXATechLab/krakend-opencensus v1.0.1 h1:wHjn6K2re8/euQmwxclDkdo3e3Qut
 github.com/AXATechLab/krakend-opencensus v1.0.1/go.mod h1:5iGPNnDyxwZ9GTBif3IbyWP4t//Edx+fXBgSpMJPjvI=
 github.com/AXATechLab/krakend-opencensus v1.0.2 h1:eNo/l9iQrh1pchLeusuezONzrjdLQwww1BTVhM3A5Mc=
 github.com/AXATechLab/krakend-opencensus v1.0.2/go.mod h1:5iGPNnDyxwZ9GTBif3IbyWP4t//Edx+fXBgSpMJPjvI=
+github.com/AXATechLab/krakend-opencensus v1.0.3 h1:TXNGL/5dgdjVxsuQYpyIMr/Y0q3WEhxjR6ju2S//cMo=
+github.com/AXATechLab/krakend-opencensus v1.0.3/go.mod h1:5iGPNnDyxwZ9GTBif3IbyWP4t//Edx+fXBgSpMJPjvI=
 github.com/AdaLogics/go-fuzz-headers v0.0.0-20210715213245-6c3934b029d8/go.mod h1:CzsSbkDixRphAF5hS6wbMKq0eI6ccJRb7/A0M6JBnwg=
 github.com/Azure/azure-amqp-common-go/v3 v3.0.1/go.mod h1:PBIGdzcO1teYoufTKMcGibdKaYZv4avS+O6LNIp8bq0=
 github.com/Azure/azure-amqp-common-go/v3 v3.1.0 h1:1N4YSkWYWffOpQHromYdOucBSQXhNRKzqtgICy6To8Q=
